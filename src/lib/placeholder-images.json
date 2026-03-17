@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Airplane wing view from window",
+      "imageUrl": "https://images.unsplash.com/photo-1591536813111-b6dccb6f67e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhaXJwbGFuZSUyMHdpbmRvd3xlbnwwfHx8fDE3Njc5NDgzMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "airplane window"
+    }
+  ]
+}
