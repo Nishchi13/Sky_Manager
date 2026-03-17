@@ -37,31 +37,24 @@ src/
  ├── hooks/         # Custom React hooks
  ├── lib/           # Utility & helper functions
  ├── ai/            # AI logic & integrations
-```
 
 ⚙️ Getting Started
-### 1. Clone Repository
-
-```
+1. Clone Repository
 git clone https://github.com/your-username/sky-manager.git
 cd sky-manager
-```
-### 2. Install Dependencies
-```
+
+2. Install Dependencies
 npm install
-```
-### 3. Setup Environment Variables
-Create a `.env` file:
-```
+
+3. Setup Environment Variables
+Create a .env file:
 NEXT_PUBLIC_FIREBASE_API_KEY=
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=
 GEMINI_API_KEY=
-```
-### 4. Run the App
-```
+
+4. Run the App
 npm run dev
-```
 Open: http://localhost:3000
 
 📊 Use Cases
