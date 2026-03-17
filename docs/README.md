@@ -40,8 +40,8 @@ src/
 
 ⚙️ Getting Started
 1. Clone Repository
-git clone https://github.com/your-username/sky-manager.git
-cd sky-manager
+git clone https://github.com/Nishchi13/Sky_Manager.git
+cd Sky-Manager
 
 2. Install Dependencies
 npm install
